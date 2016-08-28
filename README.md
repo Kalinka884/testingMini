@@ -1,5 +1,12 @@
 testing...
 
+[![Build Status](https://travis-ci.org/Kalinka884/testingMini.png?branch=master)](https://travis-ci.org/Kalinka884/testingMini) 
+[![Code Coverage](https://scrutinizer-ci.com/g/Kalinka884/testingMini/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingMini/?branch=master) 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Kalinka884/testingMini/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingMini/?branch=master)
+
+
+<br />
+
 ![MINI - A naked barebone PHP application](_install/mini-logo.png)
 
 # MINI
